@@ -1,4 +1,4 @@
-# customer-trend-visualisation
+© 2024 Sakshi Karande
 # Amazon Customer Purchase Trends Visualization
 
 ## Overview
