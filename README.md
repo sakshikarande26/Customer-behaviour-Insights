@@ -15,7 +15,6 @@ This project aims to analyze and visualize the purchase trends of Amazon custome
 - Pandas for data manipulation
 - Streamlit for building interactive web apps
 - Matplotlib and Seaborn for data visualization
-- Deployment on Netlify
 
 ## Installation
 1. Clone the repository:
